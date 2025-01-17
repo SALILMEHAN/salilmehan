@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salilmehan&label=Profile%20views&color=0e75b6&style=flat" alt="salilmehan" /> </p>
 
-- 🌱 I’m currently learning **DevOps, Docker and Kubernetes**
+- 🌱 I’m currently learning **Java and SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nextjs-theta-two.vercel.app/](https://portfolio-nextjs-theta-two.vercel.app/)
 
