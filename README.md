@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salilmehan&label=Profile%20views&color=0e75b6&style=flat" alt="salilmehan" /> </p>
 
-- 💬 Ask me about **Next.js, Node.js, Express.js, React.js and MongoDB**
+- 💬 Ask me about **Spring Boot, Next.js, Node.js, Express.js, React.js and MongoDB**
 
 - 📫 How to reach me **salilmehan123@gmail.com**
 
