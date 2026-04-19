@@ -1,55 +1,25 @@
 <h1 align="center">Hi 👋, I'm SALIL MEHAN</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salilmehan&label=Profile%20views&color=0e75b6&style=flat" alt="salilmehan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=salilmehan&label=Profile%20views&color=0e75b6&style=flat" alt="salilmehan" /> </p>
 
 - 💬 Ask me about **GO Language, Gin Web Framework, Spring Boot, Next.js, Node.js, Express.js & AI Integrations**
-  
-- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-nextjs-theta-two.vercel.app/)
 
 - 📫 How to reach me **salilmehan123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/salil-mehan-397036229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salilmehan" height="30" width="40" /></a>
-<a href="https://instagram.com/salil.mehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salil.mehan" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/salil-mehan-397036229" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/salil.mehan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:salilmehan123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<h3 align="left">Languages, Tools & AI Integrations:</h3>
-<p align="left"> 
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go-language" width="40" height="40"/> </a> 
-  <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="gin-web-framework" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+### 🛠 Languages, Tools & AI Integrations
 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a> 
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux-toolkit" width="40" height="40"/> </a> 
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/> </a> 
-
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
-  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai-integration" width="40" height="40"/> </a> 
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface-integration" width="40" height="40"/> </a> 
-  <a href="https://llama.meta.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/run-llama/logos/main/LlamaSquareBlack.svg" alt="meta-llama-integration" width="40" height="40"/> </a> 
-</p>
+![GENERAL PROFICIENCY](https://img.shields.io/badge/-General%20Proficiency-grey?style=flat-square) ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=00ADD8) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=3670A0) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=00599C) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=3178C6)<br>
+![BACKEND](https://img.shields.io/badge/-Backend-grey?style=flat-square) ![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=go&logoColor=00ADD8) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot&logoColor=6DB33F) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)<br>
+![FRONTEND](https://img.shields.io/badge/-Frontend-grey?style=flat-square) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=764ABC)<br>
+![DATA STORAGE](https://img.shields.io/badge/-Data%20Storage-grey?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=DC382D) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=FF6600)<br>
+![BAAS/CLOUD](https://img.shields.io/badge/-BaaS%2FCloud-grey?style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=FFCA28)<br>
+![DEVOPS & TOOLS](https://img.shields.io/badge/-DevOps%20%26%20Tools-grey?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket&logoColor=0047B3) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)<br>
+![AI INTEGRATIONS](https://img.shields.io/badge/-AI%20Integrations-grey?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface&logoColor=F9AB00) ![Meta Llama](https://img.shields.io/badge/-Meta%20Llama-black?style=flat-square&logo=meta&logoColor=0467DF)
